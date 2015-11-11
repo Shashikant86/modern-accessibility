@@ -1,0 +1,19 @@
+{
+  "version": "0.0.0",
+  "description": "automated accessibility demo",
+  "dependencies": {
+    "accessibility-developer-tools" : "*",
+    "pa11y" : "*",
+    "a11y" : "*",
+    "pa11y-reporter-rainbows": "*",
+    "grunt-cli": "0.1.6",
+    "grunt": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-accessibility": "*",
+    "grunt-tenon-client": "^0.6.1",
+    "grunt-a11y": "*"
+  },
+
+  "author": "Shashikant Jagtap",
+  "license": "MIT"
+}

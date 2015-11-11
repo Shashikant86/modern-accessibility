@@ -1,0 +1,5 @@
+#!/bin/bash
+STANDARD=$1
+URL=$2
+npm install
+./node_modules/.bin/pa11y -r rainbows -s ${STANDARD} ${URL}
